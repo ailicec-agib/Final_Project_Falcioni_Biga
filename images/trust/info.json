@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 143,
+    "height" : 107
+  }, {
+    "width" : 285,
+    "height" : 214
+  }, {
+    "width" : 570,
+    "height" : 427
+  }, {
+    "width" : 1139,
+    "height" : 854
+  }, {
+    "width" : 2277,
+    "height" : 1708
+  }, {
+    "width" : 4554,
+    "height" : 3416
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4554,
+  "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/trust",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3416
+}

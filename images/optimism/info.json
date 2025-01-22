@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 188,
+    "height" : 126
+  }, {
+    "width" : 376,
+    "height" : 251
+  }, {
+    "width" : 752,
+    "height" : 502
+  }, {
+    "width" : 1504,
+    "height" : 1004
+  }, {
+    "width" : 3008,
+    "height" : 2008
+  }, {
+    "width" : 6016,
+    "height" : 4016
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6016,
+  "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/optimism",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4016
+}

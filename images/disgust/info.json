@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 217,
+    "height" : 271
+  }, {
+    "width" : 433,
+    "height" : 542
+  }, {
+    "width" : 866,
+    "height" : 1083
+  }, {
+    "width" : 1732,
+    "height" : 2165
+  }, {
+    "width" : 3464,
+    "height" : 4330
+  }, {
+    "width" : 6928,
+    "height" : 8660
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 6928,
+  "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/disgust",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 8660
+}

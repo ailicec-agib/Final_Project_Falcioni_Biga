@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 157,
+    "height" : 102
+  }, {
+    "width" : 313,
+    "height" : 204
+  }, {
+    "width" : 626,
+    "height" : 408
+  }, {
+    "width" : 1251,
+    "height" : 816
+  }, {
+    "width" : 2502,
+    "height" : 1632
+  }, {
+    "width" : 5004,
+    "height" : 3264
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5004,
+  "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/pessimism",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3264
+}
