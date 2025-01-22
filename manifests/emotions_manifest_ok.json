@@ -1,0 +1,309 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/manifests/emotions_manifest_ok.json",
+  "@type" : "sc:Manifest",
+  "label" : "Emotions_Annotation_Falcioni_Biga",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Emotions annotation of images",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Chiara Falcioni - Cecilia Biga",
+  "sequences" : [ {
+    "@id" : "http://b3de36a9-e8b2-4661-b853-89a6ddbaf7a9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0458d327-59de-4450-8837-b4c090201a90",
+      "@type" : "sc:Canvas",
+      "label" : "joy",
+      "height" : 5184,
+      "width" : 3456,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c2fafbb7-112e-4223-9e63-435fad5b334f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/joy/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/joy",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5184,
+          "width" : 3456
+        },
+        "on" : "http://0458d327-59de-4450-8837-b4c090201a90"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://888b665f-f895-411c-9bce-a20f02ca2cae",
+      "@type" : "sc:Canvas",
+      "label" : "Anticipation",
+      "height" : 2000,
+      "width" : 3000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bd74e3e6-70c9-4687-af4e-011584c8d9a3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 3000
+        },
+        "on" : "http://888b665f-f895-411c-9bce-a20f02ca2cae"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c1ea0eb7-c9bc-4799-a1ef-30f45daff188",
+      "@type" : "sc:Canvas",
+      "label" : "Surprise",
+      "height" : 3554,
+      "width" : 5331,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dc1fe8e6-288d-4e44-8d95-ade9976691a9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/surprise/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/surprise",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3554,
+          "width" : 5331
+        },
+        "on" : "http://c1ea0eb7-c9bc-4799-a1ef-30f45daff188"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://51ee8fb1-7c06-4f95-a7b2-45ed5cfc93a6",
+      "@type" : "sc:Canvas",
+      "label" : "Anger",
+      "height" : 5184,
+      "width" : 3456,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a2ceedc7-95b5-474d-990c-5972597d8c3d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5184,
+          "width" : 3456
+        },
+        "on" : "http://51ee8fb1-7c06-4f95-a7b2-45ed5cfc93a6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a40110c7-77cd-494a-b446-7ededdc430d2",
+      "@type" : "sc:Canvas",
+      "label" : "optimism",
+      "height" : 4016,
+      "width" : 6016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://de85f828-71ed-4354-9556-cf53392e2ead",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/optimism/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/optimism",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4016,
+          "width" : 6016
+        },
+        "on" : "http://a40110c7-77cd-494a-b446-7ededdc430d2"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ef97c982-4fe9-4cb1-91cb-bc8941d7de31",
+      "@type" : "sc:Canvas",
+      "label" : "fear",
+      "height" : 6000,
+      "width" : 3376,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://89c20137-672f-49b8-b4df-c8afb36977f7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/fear/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/fear",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6000,
+          "width" : 3376
+        },
+        "on" : "http://ef97c982-4fe9-4cb1-91cb-bc8941d7de31"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bb26bbb7-2d03-4820-b604-8432de5c29f1",
+      "@type" : "sc:Canvas",
+      "label" : "trust",
+      "height" : 3416,
+      "width" : 4554,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://946759f4-9375-4abf-83fa-d5c0c97ee461",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/trust/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/trust",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3416,
+          "width" : 4554
+        },
+        "on" : "http://bb26bbb7-2d03-4820-b604-8432de5c29f1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://fb95a716-d697-43c7-b14c-f60f22ddc9af",
+      "@type" : "sc:Canvas",
+      "label" : "disgust",
+      "height" : 8660,
+      "width" : 6928,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://331d8677-f113-4fc7-b1f1-41e7071a19c4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/disgust/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/disgust",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 8660,
+          "width" : 6928
+        },
+        "on" : "http://fb95a716-d697-43c7-b14c-f60f22ddc9af"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://08143ce4-4014-4b72-8214-4f305af1db85",
+      "@type" : "sc:Canvas",
+      "label" : "pessimism",
+      "height" : 3264,
+      "width" : 5004,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ba45b248-2edc-4710-8284-8172f2fb0c4f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/pessimism/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/pessimism",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3264,
+          "width" : 5004
+        },
+        "on" : "http://08143ce4-4014-4b72-8214-4f305af1db85"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bbcb146d-594d-439c-98aa-37c42d5285e8",
+      "@type" : "sc:Canvas",
+      "label" : "love",
+      "height" : 3357,
+      "width" : 2518,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5ceab55b-a673-4c21-8822-e44bf0c4bf6a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/love/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/love",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3357,
+          "width" : 2518
+        },
+        "on" : "http://bbcb146d-594d-439c-98aa-37c42d5285e8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://acf1a014-8ab7-4d3b-b369-6a12b95076c5",
+      "@type" : "sc:Canvas",
+      "label" : "sadness",
+      "height" : 2504,
+      "width" : 4067,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f1121d45-78d3-4df2-ac72-65d2060d0056",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/sadness/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/sadness",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2504,
+          "width" : 4067
+        },
+        "on" : "http://acf1a014-8ab7-4d3b-b369-6a12b95076c5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
