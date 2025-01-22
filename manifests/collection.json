@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/manifests/emotions_manifest.json",
     "label" : "Emotions_Annotation_Falcioni_Biga"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/manifests/emotions_manifest_ok.json",
+    "label" : "Emotions_Annotation_Falcioni_Biga"
   } ]
 }
