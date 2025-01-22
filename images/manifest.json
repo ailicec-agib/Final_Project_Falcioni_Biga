@@ -1,0 +1,174 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in ailicec-agib/Final_Project_Falcioni_Biga project"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "anger"
+                ]
+            },
+            "height": 5184,
+            "width": 3456,
+            "items": [
+                {
+                    "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 108,
+                                                "height": 162
+                                            },
+                                            {
+                                                "width": 216,
+                                                "height": 324
+                                            },
+                                            {
+                                                "width": 432,
+                                                "height": 648
+                                            },
+                                            {
+                                                "width": 864,
+                                                "height": 1296
+                                            },
+                                            {
+                                                "width": 1728,
+                                                "height": 2592
+                                            },
+                                            {
+                                                "width": 3456,
+                                                "height": 5184
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3456,
+                                        "@id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5184,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anger/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "anticipation"
+                ]
+            },
+            "height": 2000,
+            "width": 3000,
+            "items": [
+                {
+                    "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 94,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 3000,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3000,
+                                        "@id": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/images/anticipation/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
