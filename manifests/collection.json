@@ -1,0 +1,13 @@
+{
+  "id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ailicec-agib/Final_Project_Falcioni_Biga project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ailicec-agib.github.io/Final_Project_Falcioni_Biga/manifests/emotions_manifest.json",
+    "label" : "Emotions_Annotation_Falcioni_Biga"
+  } ]
+}
